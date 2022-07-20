@@ -1,5 +1,9 @@
 ## Olá! Sou o Ezequiel 👨‍🚀 
 
+- 👨‍💻 Desenvolvedor Front-end Jr
+- 🚀 Estudando Node.js
+- ☕ Viciado em café
+##
 <div align="center">
   <a href="https://github.com/musashifraco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=musashifraco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,6 +14,7 @@
   <img align="center" alt="Ezequiel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ezequiel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/97633667?v=4">
   
   ##
  
