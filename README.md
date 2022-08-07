@@ -1,7 +1,7 @@
 ## Olá! Sou o Ezequiel 👨‍🚀 
 
-- 👨‍💻 Desenvolvedor Front-end Jr
-- 🚀 Estudando Node.js
+- 👨‍💻 Desenvolvedor Front-end
+- 🚀 Estudando | Node.js | SASS | Bootstrap 
 - ☕ Viciado em café
 ##
 <div align="center">
